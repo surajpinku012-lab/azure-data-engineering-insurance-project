@@ -168,6 +168,3 @@ Azure Data Engineer
 Skills: SQL • Python • PySpark • Azure Data Factory • Databricks • ADLS Gen2 • Delta Lake
 
 
-
-```text
-Improve insurance data engineering project documentation
